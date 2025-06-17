@@ -1,0 +1,156 @@
+@font-face {
+  font-family: 'Poppins';
+  src: url('../assets/fonts/Poppins-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .hamburger {
+    display: block;
+  }
+
+  nav {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    display: none;
+    box-shadow: 0 8px 10px rgba(0,0,0,0.1);
+  }
+
+  nav.active {
+    display: block;
+  }
+
+  .nav-link {
+    flex-direction: column;
+    padding: 15px;
+    gap: 15px;
+  }
+
+  .nav-link li a {
+    display: block;
+    width: 100%;
+    padding: 10px 0;
+    margin: 0;
+    font-size: 16px;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .banner-content h1 {
+    font-size: 32px;
+  }
+
+  .banner-content p {
+    font-size: 16px;
+  }
+  .filter .container{
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .filter form {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .filter input[type="text"],
+  .filter input[type="date"],
+  .filter button {
+    flex: 1 1 calc(33% - 10px);
+  }
+
+  .filter button {
+    max-width: 150px;
+  }
+
+  .hajj-package h2 {
+    font-size: 24px;
+  }
+
+  .hajj-package .hajj-container {
+    padding: 25px 20px;
+  }
+
+  .hajj-package p {
+    font-size: 15px;
+  }
+  .card-content h3 {
+    font-size: 18px;
+  }
+
+  .card-content p {
+    font-size: 14px;
+  }
+
+  .card-content .btn {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+
+  .about-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .about-text h2 {
+    font-size: 26px;
+  }
+
+  .about-text p {
+    font-size: 15px;
+  }
+
+    .newsletter-form {
+    flex-direction: column;
+  }
+
+  .newsletter-form input,
+  .newsletter-form button {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .newsletter-form button {
+    padding: 12px;
+  }
+
+  .footer-container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .footer-col {
+    width: 100%;
+  }
+
+  .contact-container {
+    flex-direction: column;
+    padding: 20px;
+  }
+  .map {
+    display: none;
+  }
+
+  .blog-card img {
+    height: 140px;
+  }
+
+  .blog-content h3 {
+    font-size: 1.1rem;
+  }
+
+  .blog-content p {
+    font-size: 0.9rem;
+  }
+
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "bd_tour_name": "Sajek Valley Tour",
+    "bd_tour_image": "https://www.tourgroupbd.com/upload/event/1658569515_event.jpg",
+    "bd_tour_title": "Sajek Valley 3 Days 2 Nights",
+    "bd_tour_price": "Starts From BDT.8500/Per Person",
+    "bd_tour_day_of_time": "3 Days",
+    "bd_tour_details": "Round trip by AC bus, cottage stay, all meals, local sightseeing included.",
+    "bd_tour_contact": {
+      "bd_tour_hot_line": "+88-01730283920",
+      "bd_tour_phone": "+88-01319422583",
+      "bd_tour_email": "sajek@tourbd.com",
+      "bd_tour_location": "Mirpur-10, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 2,
+    "bd_tour_name": "Cox’s Bazar Beach Escape",
+    "bd_tour_image": "https://i.ytimg.com/vi/36bhlDgO6mY/maxresdefault.jpg",
+    "bd_tour_title": "Cox’s Bazar 4 Days 3 Nights",
+    "bd_tour_price": "Starts From BDT.9500/Per Person",
+    "bd_tour_day_of_time": "4 Days",
+    "bd_tour_details": "Hotel near sea beach, seafood meals, Himchari & Inani visit.",
+    "bd_tour_contact": {
+      "bd_tour_hot_line": "+88-01730283921",
+      "bd_tour_phone": "+88-01319422584",
+      "bd_tour_email": "cox@tourbd.com",
+      "bd_tour_location": "Banani, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 3,
+    "bd_tour_name": "Sundarbans Adventure Tour",
+    "bd_tour_image": "https://tourgroupbd.com/upload/event/1650390229_event.jpg",
+    "bd_tour_title": "Explore Mangrove Forest 3 Days",
+    "bd_tour_price": "Starts From BDT.11500/Per Person",
+    "bd_tour_day_of_time": "3 Days",
+    "bd_tour_details": "Launch cruise, all meals, forest guide, tiger point visit.",
+    "bd_tour_contact": {
+      "bd_tour_hot_line": "+88-01730283922",
+      "bd_tour_phone": "+88-01319422585",
+      "bd_tour_email": "sundarban@tourbd.com",
+      "bd_tour_location": "Motijheel, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 4,
+    "bd_tour_name": "Sylhet Tea Garden Tour",
+    "bd_tour_image": "https://www.travelmate.com.bd/wp-content/uploads/2021/03/Lakkatura-Cha-Bagan.jpg",
+    "bd_tour_title": "Sylhet & Jaflong 2 Nights",
+    "bd_tour_price": "Starts From BDT.7800/Per Person",
+    "bd_tour_day_of_time": "2 Days",
+    "bd_tour_details": "AC transport, hotel, tea garden, Ratargul & Jaflong tour.",
+    "bd_tour_contact": {
+      "bd_tour_hot_line": "+88-01730283923",
+      "bd_tour_phone": "+88-01319422586",
+      "bd_tour_email": "sylhet@tourbd.com",
+      "bd_tour_location": "Uttara, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 5,
+    "bd_tour_name": "Bandarban Nature Retreat",
+    "bd_tour_image": "https://tfe-bd.sgp1.cdn.digitaloceanspaces.com/posts/47261/bndrbnexpce.jpg",
+    "bd_tour_title": "Bandarban 3 Days 2 Nights",
+    "bd_tour_price": "Starts From BDT.8700/Per Person",
+    "bd_tour_day_of_time": "3 Days",
+    "bd_tour_details": "Nilgiri, Nafakhum, Boga Lake, and tribal village tour.",
+    "bd_tour_contact": {
+      "bd_tour_hot_line": "+88-01730283924",
+      "bd_tour_phone": "+88-01319422587",
+      "bd_tour_email": "bandarban@tourbd.com",
+      "bd_tour_location": "Shahbagh, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 6,
+    "bd_tour_name": "Saint Martin’s Island Tour",
+    "bd_tour_image": "https://www.tripsilo.com/uploads/images/tours/slider/644403_12496316_10153273503225248_3424486551059093533_o.jpg",
+    "bd_tour_title": "Blue Water Escape 2 Nights",
+    "bd_tour_price": "Starts From BDT.9500/Per Person",
+    "bd_tour_day_of_time": "3 Days",
+    "bd_tour_details": "Ship ticket, island stay, beach walk, marine food fest.",
+    "bd_tour_contact": {
+      "bd_tour_hot_line": "+88-01730283925",
+      "bd_tour_phone": "+88-01319422588",
+      "bd_tour_email": "stmartin@tourbd.com",
+      "bd_tour_location": "Mohammadpur, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 7,
+    "bd_tour_name": "Srimangal Tea Town Tour",
+    "bd_tour_image": "https://royalbengaltours.com/wp-content/uploads/2017/08/Cycle-through-the-most-beautiful-tea-estates-of-Sreemangal-and-Sylhet-area.webp",
+    "bd_tour_title": "Srimangal 2 Days Nature Tour",
+    "bd_tour_price": "Starts From BDT.7200/Per Person",
+    "bd_tour_day_of_time": "2 Days",
+    "bd_tour_details": "Lawachara forest, 7-layer tea, tribal lifestyle tour.",
+    "bd_tour_contact": {
+      "bd_tour_hot_line": "+88-01730283926",
+      "bd_tour_phone": "+88-01319422589",
+      "bd_tour_email": "srimangal@tourbd.com",
+      "bd_tour_location": "Gulshan, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 8,
+    "bd_tour_name": "Rangamati Lake Cruise",
+    "bd_tour_image": "https://media-cdn.tripadvisor.com/media/photo-s/10/8f/6d/9a/kaptai-lake-rangamati.jpg",
+    "bd_tour_title": "Hill Lake Tour 3 Days",
+    "bd_tour_price": "Starts From BDT.8900/Per Person",
+    "bd_tour_day_of_time": "3 Days",
+    "bd_tour_details": "Boat cruise, Hanging bridge, Rajban Bihar, tribal lunch.",
+    "bd_tour_contact": {
+      "bd_tour_hot_line": "+88-01730283927",
+      "bd_tour_phone": "+88-01319422590",
+      "bd_tour_email": "rangamati@tourbd.com",
+      "bd_tour_location": "Baridhara, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 9,
+    "bd_tour_name": "Kuakata Sunrise & Sunset",
+    "bd_tour_image": "https://i.ytimg.com/vi/ddmeDRvuGdE/maxresdefault.jpg",
+    "bd_tour_title": "Kuakata 2 Nights Tour",
+    "bd_tour_price": "Starts From BDT.8200/Per Person",
+    "bd_tour_day_of_time": "2 Days",
+    "bd_tour_details": "Sunrise & sunset from sea beach, Buddhist temple visit.",
+    "bd_tour_contact": {
+      "bd_tour_hot_line": "+88-01730283928",
+      "bd_tour_phone": "+88-01319422591",
+      "bd_tour_email": "kuakata@tourbd.com",
+      "bd_tour_location": "Farmgate, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 10,
+    "bd_tour_name": "Panam City Day Tour",
+    "bd_tour_image": "https://i.ibb.co/4RnThR4/panam.jpg",
+    "bd_tour_title": "Panam City & Sonargaon 1 Day",
+    "bd_tour_price": "Starts From BDT.3000/Per Person",
+    "bd_tour_day_of_time": "1 Day",
+    "bd_tour_details": "Historical sites, museum, folk art and old capital tour.",
+    "bd_tour_contact": {
+      "bd_tour_hot_line": "+88-01730283929",
+      "bd_tour_phone": "+88-01319422592",
+      "bd_tour_email": "panam@tourbd.com",
+      "bd_tour_location": "Bashundhara, Dhaka, Bangladesh"
+    }
+  }
+]

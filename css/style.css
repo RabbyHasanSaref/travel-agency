@@ -1,0 +1,761 @@
+@font-face {
+  font-family: 'Poppins';
+  src: url('../assets/fonts/Poppins-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*header/nav start */
+header{
+  background: #fff;
+  box-shadow: 0 1px 5px -3px #000;
+  padding: 15px, 0;
+  color: black;
+  font-family: Poppins;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.container{
+  max-width: 1500px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+
+.logo{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.hamburger{
+  display: none;
+  font-size: 24px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.nav-link{
+  list-style: none;
+  display: flex;
+  margin: 20px;
+}
+
+.nav-link li a{
+  margin-right: 20px;
+  color: black;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+/*header/nav end*/
+
+/* slider/banner start */
+
+.banner {
+  background-image: url('../images/banner2.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 600px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+
+.banner::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); 
+  z-index: 1;
+}
+
+.banner .container {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.banner-content h1 {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  font-family: Poppins;
+}
+
+.banner-content p {
+  font-family: Poppins;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 25px;
+  background-color: #007BFF;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background 0.3s;
+  font-family: Poppins;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+/* slider/banner end */
+
+/* filter start  */
+section.filter {
+  padding: 50px 20px;
+  /* background: linear-gradient(to right, #2193b0, #6dd5ed); */
+  color: white;
+}
+
+.filter .container {
+  max-width: 1500px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 30px 20px;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.filter h2 {
+  text-align: center;
+  font-family: Poppins;
+  margin-bottom: 30px;
+  /* display: flex;
+  align-items: center; */
+  color: black;
+}
+
+.filter form {
+  display: flex;
+  /* flex-wrap: wrap; */
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.filter input[type="text"],
+.filter input[type="date"] {
+  padding: 12px 15px;
+  font-size: 16px;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  flex: 1 1 250px;
+  transition: border-color 0.3s ease;
+}
+
+.filter input:focus {
+  border-color: #2193b0;
+  outline: none;
+}
+
+.filter button {
+  padding: 12px 25px;
+  font-size: 16px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  flex: 1 1 150px;
+  font-family: Poppins;
+}
+
+.filter button:hover {
+  background-color: #0056b3;
+}
+/* filter end */
+
+/* hajj pakage start  */
+
+.hajj-package .hajj-container {
+  max-width: 1500px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 30px 20px;
+  border-radius: 12px;
+  /* box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1); */
+  transition: transform 0.3s ease;
+}
+
+
+.hajj-package h2 {
+  font-size: 28px;
+  color: black;
+  margin-bottom: 20px;
+  font-family: Poppins;
+  text-align: center;
+}
+
+.hajj-package p {
+  font-size: 16px;
+  line-height: 1.8;
+  font-family: Poppins;
+  color: #555;
+  text-align: justify;
+}
+/* hajj .hajj-package end  */
+
+.hajj-card {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  padding: 30px 20px;
+  /* background-color: #f0f4f8; */
+}
+
+.card {
+  background-color: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.card-content{
+  padding: 20px;
+}
+
+
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-content h3 {
+ text-align: left;
+  font-family: Poppins;
+}
+.card-content p {
+ text-align: left;
+  font-family: Poppins;
+}
+
+
+.card-content .btn {
+  display: inline-block;
+  margin: 15px 0 20px;
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background 0.3s ease;
+  width: 100%;
+  font-family: Poppins;
+}
+
+.card-content .btn:hover {
+  background-color: #0056b3;
+}
+
+/* about us start  */
+.about {
+  padding: 60px 20px;
+  /* background-color: #f9f9f9; */
+}
+
+.about .container {
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+.about-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.about-text {
+  flex: 1;
+  min-width: 280px;
+}
+
+.about-text h2 {
+  font-size: 32px;
+  color: #000;
+  margin-bottom: 20px;
+  font-family: Poppins;
+}
+
+.about-text p {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #555;
+  margin-bottom: 20px;
+  font-family: Poppins;
+}
+
+.about-text .btn {
+  display: inline-block;
+  padding: 12px 25px;
+  background-color: #007BFF;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background 0.3s;
+  font-family: Poppins;
+}
+.about-text .btn:hover {
+  background-color: #0056b3;
+}
+
+.about-media {
+  flex: 1;
+  min-width: 280px;
+}
+
+.responsive-iframe {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 ratio */
+  height: 0;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.responsive-iframe iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* feature start  */
+.features {
+  padding: 50px 20px;
+  background: #fff;
+}
+
+.features-container {
+  max-width: 1500px;
+  margin: 0 auto;
+  border-radius: 10px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 30px;
+  text-align: center;
+  background: #fff;
+  padding: 30px 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+/* .feature-box {
+  transition: transform 0.3s ease;
+}
+
+.feature-box:hover {
+  transform: translateY(-5px);
+} */
+
+.icon-box {
+  width: 60px;
+  height: 60px;
+  border: 2px solid #00aeef;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 26px;
+  color: #00aeef;
+  margin: 0 auto 10px;
+}
+
+.feature-box.active .icon-box {
+  background-color: #00aeef;
+  color: white;
+  border: none;
+}
+
+.feature-box h4 {
+  font-size: 16px;
+  color: #333;
+  font-weight: 500;
+  font-family: Poppins;
+}
+
+/* feature end  */
+
+/* news letter start */
+.newsletter {
+  background: url('https://www.travelanddestinations.com/wp-content/uploads/2020/02/Travel-Destinations.jpg') center center/cover no-repeat;
+  padding: 80px 20px;
+  text-align: center;
+  color: white;
+  position: relative;
+}
+
+.newsletter::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+.newsletter-content {
+  position: relative;
+  z-index: 2;
+  max-width: 700px;
+  margin: auto;
+}
+
+.newsletter h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-family: Poppins;
+}
+
+.newsletter p {
+  font-size: 16px;
+  margin-bottom: 30px;
+  font-family: Poppins;
+}
+
+.newsletter-form {
+  display: flex;
+  max-width: 100%;
+  background: white;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.newsletter-form input {
+  flex: 1;
+  padding: 15px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+
+.newsletter-form button {
+  background: #00aeef;
+  color: white;
+  padding: 0 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.newsletter-form button i {
+  pointer-events: none;
+}
+
+/* news letter end */
+
+/* footer start */
+.footer {
+  background-color: #1e1e1e;
+  color: #fff;
+  padding: 60px 20px;
+}
+
+.footer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: auto;
+  gap: 30px;
+}
+
+.footer-col {
+  flex: 1 1 300px;
+}
+
+.footer-col h3 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  color: #ffffff;
+   font-family: Poppins;
+}
+
+.footer-col ul {
+  list-style: none;
+  padding: 0;
+   font-family: Poppins;
+}
+
+.footer-col ul li {
+  margin-bottom: 10px;
+   font-family: Poppins;
+}
+
+.footer-col ul li a {
+  color: #ddd;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.footer-col ul li a:hover {
+  color: #00aeef;
+}
+
+.footer-col p {
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 15px;
+   font-family: Poppins;
+}
+
+.footer-col i {
+  margin-right: 10px;
+  color: #00aeef;
+}
+
+.social-icons a {
+  color: #fff;
+  margin-right: 10px;
+  font-size: 18px;
+  transition: 0.3s;
+  font-family: Poppins;
+}
+
+.social-icons a:hover {
+  color: #00aeef;
+}
+
+
+/* about page  */
+.about-banner {
+  background-image: url('https://www.travelanddestinations.com/wp-content/uploads/2020/02/Travel-Destinations.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 400px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+
+.about-banner::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); 
+  z-index: 1;
+}
+
+.about-banner .container {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.banner-content h1 {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  font-family: Poppins;
+}
+
+.banner-content p {
+  font-family: Poppins;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 25px;
+  background-color: #007BFF;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background 0.3s;
+  font-family: Poppins;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+
+/* contact page  */
+.contact-banner {
+  background-image: url('https://www.travelanddestinations.com/wp-content/uploads/2020/02/Travel-Destinations.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 400px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+
+.contact-banner::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); 
+  z-index: 1;
+}
+
+.contact-banner .container {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.banner-content h1 {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  font-family: Poppins;
+}
+
+.banner-content p {
+  font-family: Poppins;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 25px;
+  background-color: #007BFF;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background 0.3s;
+  font-family: Poppins;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+.contact-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.contact-form {
+  flex: 1 1 45%;
+}
+
+.contact-form form input,
+.contact-form form textarea {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.contact-form form button {
+  background-color: #00aeef;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.map {
+  flex: 1 1 45%;
+}
+
+
+.blog-cards-section {
+  padding: 40px 0;
+  background-color: #f9f9f9;
+}
+
+.blog-cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+}
+
+.blog-card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 0.1);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease;
+}
+
+.blog-card:hover {
+  transform: translateY(-5px);
+}
+
+.blog-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.blog-content {
+  padding: 20px;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.blog-content h3 {
+  font-size: 1.25rem;
+  margin-bottom: 12px;
+  color: #222;
+}
+
+.blog-content p {
+  flex-grow: 1;
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 16px;
+}
+
+.read-more-btn {
+  align-self: flex-start;
+  text-decoration: none;
+  background-color: #00aeef;
+  color: white;
+  padding: 8px 15px;
+  border-radius: 5px;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+}
+
+.read-more-btn:hover {
+  background-color: #008ccf;
+}

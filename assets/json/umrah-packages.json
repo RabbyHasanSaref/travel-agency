@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "umrah_packag_name": "Exclusive Umrah Package",
+    "umrah_packag_image": "https://i.ibb.co.com/wFwny6c1/pngtree-hajj-and-umrah-png-image-15361618.png",
+    "umrah_packag_title": "Exclusive Umrah Package 14 Days",
+    "umrah_packag_price": "Starts From BDT.142000/Per Person",
+    "umrah_packag_day_of_time": "8N Makkah & Madinah",
+    "umrah_packag_details": "Air ticket, hotel, transport, visa, guidebook, Ziyarah included.",
+    "umrah_packag_contact": {
+      "umrah_packag_hot_line": "+88-01730283920",
+      "umrah_packag_phone": "+88-01319422583",
+      "umrah_packag_email": "rabbyhasansaref@gmail.com",
+      "umrah_packag_location": "Mirpur-10, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 2,
+    "umrah_packag_name": "Premium Umrah Experience",
+    "umrah_packag_image": "https://www.noorhajjbd.com/images/customized-umrah-packages-from-bangladesh.jpg",
+    "umrah_packag_title": "Premium Package with 5 Star Hotels",
+    "umrah_packag_price": "Starts From BDT.185000/Per Person",
+    "umrah_packag_day_of_time": "10N Makkah & Madinah",
+    "umrah_packag_details": "Luxury hotel, full board meals, private transportation and guide.",
+    "umrah_packag_contact": {
+      "umrah_packag_hot_line": "+88-01730334921",
+      "umrah_packag_phone": "+88-01319422584",
+      "umrah_packag_email": "premium@umrahbd.com",
+      "umrah_packag_location": "Banani, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 3,
+    "umrah_packag_name": "Economy Umrah Deal",
+    "umrah_packag_image": "https://hajjandumrahtrips.com/wp-content/uploads/2023/10/7-Nights-Silver-Umrah-Package.webp",
+    "umrah_packag_title": "Economy Package with Basic Amenities",
+    "umrah_packag_price": "Starts From BDT.99000/Per Person",
+    "umrah_packag_day_of_time": "7N Makkah & Madinah",
+    "umrah_packag_details": "Affordable package with shared room and group transport.",
+    "umrah_packag_contact": {
+      "umrah_packag_hot_line": "+88-01730283922",
+      "umrah_packag_phone": "+88-01319422585",
+      "umrah_packag_email": "info@budgetumrah.com",
+      "umrah_packag_location": "Motijheel, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 4,
+    "umrah_packag_name": "Family Umrah Package",
+    "umrah_packag_image": "https://alliancetours.in/wp-content/uploads/2025/01/kelvin_santarita_Muslim_Family_and_Loved_Ones_4978af97-6e77-4f34-87c0-fa16663ad1b6-e1736407103556.jpg",
+    "umrah_packag_title": "Family-Friendly Package",
+    "umrah_packag_price": "Starts From BDT.160000/Per Person",
+    "umrah_packag_day_of_time": "9N Makkah & Madinah",
+    "umrah_packag_details": "Special arrangements for families with kids, meals included.",
+    "umrah_packag_contact": {
+      "umrah_packag_hot_line": "+88-01730283923",
+      "umrah_packag_phone": "+88-01319422586",
+      "umrah_packag_email": "family@umrahbd.com",
+      "umrah_packag_location": "Uttara, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 5,
+    "umrah_packag_name": "Senior Citizen Umrah",
+    "umrah_packag_image": "https://themedialine.org/wp-content/uploads/2023/06/GettyImages-1258944293-e1687694893696.jpg",
+    "umrah_packag_title": "Comfortable Package for Elderly",
+    "umrah_packag_price": "Starts From BDT.150000/Per Person",
+    "umrah_packag_day_of_time": "10N Makkah & Madinah",
+    "umrah_packag_details": "Wheelchair support, health care, and easy access accommodations.",
+    "umrah_packag_contact": {
+      "umrah_packag_hot_line": "+88-01730283924",
+      "umrah_packag_phone": "+88-01319422587",
+      "umrah_packag_email": "seniorcare@umrahbd.com",
+      "umrah_packag_location": "Shahbagh, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 6,
+    "umrah_packag_name": "Student Umrah Special",
+    "umrah_packag_image": "https://news.harvard.edu/wp-content/uploads/2023/02/Umrah-Gazette-group-shot.jpg",
+    "umrah_packag_title": "Affordable Umrah for Students",
+    "umrah_packag_price": "Starts From BDT.87000/Per Person",
+    "umrah_packag_day_of_time": "7N Makkah & Madinah",
+    "umrah_packag_details": "Group travel, shared rooms, and educational sessions.",
+    "umrah_packag_contact": {
+      "umrah_packag_hot_line": "+88-01730283925",
+      "umrah_packag_phone": "+88-01319422588",
+      "umrah_packag_email": "student@umrahbd.com",
+      "umrah_packag_location": "Mohammadpur, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 7,
+    "umrah_packag_name": "Couple Umrah Delight",
+    "umrah_packag_image": "https://i.ytimg.com/vi/Hh_0WGNQV8o/maxresdefault.jpg",
+    "umrah_packag_title": "Private Umrah Experience for Couples",
+    "umrah_packag_price": "Starts From BDT.165000/Per Person",
+    "umrah_packag_day_of_time": "8N Makkah & Madinah",
+    "umrah_packag_details": "Private rooms, romantic city tours, halal dining.",
+    "umrah_packag_contact": {
+      "umrah_packag_hot_line": "+88-01730283926",
+      "umrah_packag_phone": "+88-01319422589",
+      "umrah_packag_email": "couple@umrahbd.com",
+      "umrah_packag_location": "Gulshan, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 8,
+    "umrah_packag_name": "Ramadan Special Umrah",
+    "umrah_packag_image": "https://ummid.com/news/2022/march/13.03.2022/umrah-in-ramadan.jpg",
+    "umrah_packag_title": "Blessed Umrah During Ramadan",
+    "umrah_packag_price": "Starts From BDT.175000/Per Person",
+    "umrah_packag_day_of_time": "12N Makkah & Madinah",
+    "umrah_packag_details": "Iftar, Suhoor, Taraweeh, and special religious programs.",
+    "umrah_packag_contact": {
+      "umrah_packag_hot_line": "+88-01730283927",
+      "umrah_packag_phone": "+88-01319422590",
+      "umrah_packag_email": "ramadan@umrahbd.com",
+      "umrah_packag_location": "Bashundhara, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 9,
+    "umrah_packag_name": "VIP Umrah Luxury Package",
+    "umrah_packag_image": "https://www.alharamtravel.co.uk/theme/gallery_images/492.webp",
+    "umrah_packag_title": "Top-Class VIP Umrah",
+    "umrah_packag_price": "Starts From BDT.250000/Per Person",
+    "umrah_packag_day_of_time": "10N Makkah & Madinah",
+    "umrah_packag_details": "First-class flight, private suite, personal guide, and chef.",
+    "umrah_packag_contact": {
+      "umrah_packag_hot_line": "+88-01730283928",
+      "umrah_packag_phone": "+88-01319422591",
+      "umrah_packag_email": "vip@umrahbd.com",
+      "umrah_packag_location": "Baridhara, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 10,
+    "umrah_packag_name": "Weekend Umrah Express",
+    "umrah_packag_image": "https://adeebatourandtravels.com/public/assets/images/best_umrah_package_mainbanner.webp",
+    "umrah_packag_title": "Short Trip Umrah (5 Days)",
+    "umrah_packag_price": "Starts From BDT.72000/Per Person",
+    "umrah_packag_day_of_time": "3N Makkah & Madinah",
+    "umrah_packag_details": "Ideal for busy professionals. Quick spiritual recharge.",
+    "umrah_packag_contact": {
+      "umrah_packag_hot_line": "+88-01730283929",
+      "umrah_packag_phone": "+88-01319422592",
+      "umrah_packag_email": "express@umrahbd.com",
+      "umrah_packag_location": "Farmgate, Dhaka, Bangladesh"
+    }
+  }
+]

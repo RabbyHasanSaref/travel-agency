@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "hajj_packag_name": "Exclusive Hajj Package",
+    "hajj_packag_image": "https://i.ibb.co.com/wFwny6c1/pngtree-hajj-and-umrah-png-image-15361618.png",
+    "hajj_packag_title": "Exclusive Hajj Package 14 Days",
+    "hajj_packag_price": "Starts From BDT.142000/Per Person",
+    "hajj_packag_day_of_time": "15 Day",
+    "hajj_packag_details": "Air ticket, hotel, transport, visa, guidebook, Ziyarah included.",
+    "hajj_packag_contact": {
+      "hajj_packag_hot_line": "+88-01730283920",
+      "hajj_packag_phone": "+88-01319422583",
+      "hajj_packag_email": "rabbyhasansaref@gmail.com",
+      "hajj_packag_location": "Mirpur-10, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 2,
+    "hajj_packag_name": "Premium Hajj Package",
+    "hajj_packag_image": "https://zamzamtravelsbd.com/public/uploaded_files/blogs/1707498907_vip-hajj-package-from-bangladesh.jpg",
+    "hajj_packag_title": "Premium Hajj with 5 Star Accommodation",
+    "hajj_packag_price": "Starts From BDT.250000/Per Person",
+    "hajj_packag_day_of_time": "18 Day",
+    "hajj_packag_details": "Top hotels, buffet meals, private transport, and personal guide.",
+    "hajj_packag_contact": {
+      "hajj_packag_hot_line": "+88-01730283921",
+      "hajj_packag_phone": "+88-01319422584",
+      "hajj_packag_email": "premium@hajjbd.com",
+      "hajj_packag_location": "Banani, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 3,
+    "hajj_packag_name": "Economy Hajj Deal",
+    "hajj_packag_image": "https://d2u0ktu8omkpf6.cloudfront.net/352bc730577b570ed7b3ac8870cf69085f99fc441f993e20.png",
+    "hajj_packag_title": "Economy Hajj for Budget Travelers",
+    "hajj_packag_price": "Starts From BDT.120000/Per Person",
+    "hajj_packag_day_of_time": "14 Day",
+    "hajj_packag_details": "Group package, shared accommodation, basic amenities.",
+    "hajj_packag_contact": {
+      "hajj_packag_hot_line": "+88-01730283922",
+      "hajj_packag_phone": "+88-01319422585",
+      "hajj_packag_email": "economy@hajjbd.com",
+      "hajj_packag_location": "Motijheel, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 4,
+    "hajj_packag_name": "Family Hajj Package",
+    "hajj_packag_image": "https://5.imimg.com/data5/RQ/UK/GLADMIN-64816310/hajj-tour-packages-services.png",
+    "hajj_packag_title": "Comfortable Hajj for Families",
+    "hajj_packag_price": "Starts From BDT.180000/Per Person",
+    "hajj_packag_day_of_time": "16 Day",
+    "hajj_packag_details": "Spacious rooms, family-friendly travel and meal arrangements.",
+    "hajj_packag_contact": {
+      "hajj_packag_hot_line": "+88-01730283923",
+      "hajj_packag_phone": "+88-01319422586",
+      "hajj_packag_email": "family@hajjbd.com",
+      "hajj_packag_location": "Uttara, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 5,
+    "hajj_packag_name": "Senior Citizen Hajj",
+    "hajj_packag_image": "https://labaykhajj.ca/wp-content/uploads/2019/01/iStock-458114551Madinah-outside-1024x683.jpg",
+    "hajj_packag_title": "Elder-Friendly Hajj Experience",
+    "hajj_packag_price": "Starts From BDT.175000/Per Person",
+    "hajj_packag_day_of_time": "17 Day",
+    "hajj_packag_details": "Wheelchair access, medical support, experienced staff assistance.",
+    "hajj_packag_contact": {
+      "hajj_packag_hot_line": "+88-01730283924",
+      "hajj_packag_phone": "+88-01319422587",
+      "hajj_packag_email": "senior@hajjbd.com",
+      "hajj_packag_location": "Shahbagh, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 6,
+    "hajj_packag_name": "Student Hajj Special",
+    "hajj_packag_image": "https://drive.uqu.edu.sa/_/cob/images/5/6/1.jpg",
+    "hajj_packag_title": "Affordable Hajj for Students",
+    "hajj_packag_price": "Starts From BDT.110000/Per Person",
+    "hajj_packag_day_of_time": "13 Day",
+    "hajj_packag_details": "Educational Hajj journey, lectures, group activities.",
+    "hajj_packag_contact": {
+      "hajj_packag_hot_line": "+88-01730283925",
+      "hajj_packag_phone": "+88-01319422588",
+      "hajj_packag_email": "student@hajjbd.com",
+      "hajj_packag_location": "Mohammadpur, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 7,
+    "hajj_packag_name": "Couple Hajj Journey",
+    "hajj_packag_image": "https://khidmatisafar.com/Images/coupleumrahpackage.jpg",
+    "hajj_packag_title": "Private Hajj for Couples",
+    "hajj_packag_price": "Starts From BDT.200000/Per Person",
+    "hajj_packag_day_of_time": "15 Day",
+    "hajj_packag_details": "Double rooms, spiritual bonding experience, private Ziyarah tours.",
+    "hajj_packag_contact": {
+      "hajj_packag_hot_line": "+88-01730283926",
+      "hajj_packag_phone": "+88-01319422589",
+      "hajj_packag_email": "couple@hajjbd.com",
+      "hajj_packag_location": "Gulshan, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 8,
+    "hajj_packag_name": "Deluxe Hajj Retreat",
+    "hajj_packag_image": "https://www.umrahservices.in/Images/umrah-package/ramdan-2.webp",
+    "hajj_packag_title": "Luxury & Peace Combined",
+    "hajj_packag_price": "Starts From BDT.270000/Per Person",
+    "hajj_packag_day_of_time": "18 Day",
+    "hajj_packag_details": "First-class facilities, gourmet meals, full support service.",
+    "hajj_packag_contact": {
+      "hajj_packag_hot_line": "+88-01730283927",
+      "hajj_packag_phone": "+88-01319422590",
+      "hajj_packag_email": "deluxe@hajjbd.com",
+      "hajj_packag_location": "Baridhara, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 9,
+    "hajj_packag_name": "Express Hajj Plan",
+    "hajj_packag_image": "https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/How-to-Plan-a-Hajj-Trip-from-Dubai-Cover-09-06.jpg",
+    "hajj_packag_title": "Short Trip Hajj Package",
+    "hajj_packag_price": "Starts From BDT.135000/Per Person",
+    "hajj_packag_day_of_time": "10 Day",
+    "hajj_packag_details": "Ideal for working professionals, efficient schedule.",
+    "hajj_packag_contact": {
+      "hajj_packag_hot_line": "+88-01730283928",
+      "hajj_packag_phone": "+88-01319422591",
+      "hajj_packag_email": "express@hajjbd.com",
+      "hajj_packag_location": "Farmgate, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 10,
+    "hajj_packag_name": "Ramadan Hajj Special",
+    "hajj_packag_image": "https://www.aiknewshd.tv/images/photos/25032200231742658428.jpg",
+    "hajj_packag_title": "Perform Hajj During Ramadan",
+    "hajj_packag_price": "Starts From BDT.220000/Per Person",
+    "hajj_packag_day_of_time": "20 Day",
+    "hajj_packag_details": "Spiritual boost, Taraweeh, Iftar and Suhoor in Haramain.",
+    "hajj_packag_contact": {
+      "hajj_packag_hot_line": "+88-01730283929",
+      "hajj_packag_phone": "+88-01319422592",
+      "hajj_packag_email": "ramadan@hajjbd.com",
+      "hajj_packag_location": "Bashundhara, Dhaka, Bangladesh"
+    }
+  }
+]

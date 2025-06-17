@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "visa_country": "Saudi Arabia",
+    "visa_country_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/800px-Flag_of_Saudi_Arabia.svg.png",
+    "visa_type": "Umrah Visa",
+    "visa_processing_time": "5-7 Working Days",
+    "visa_price": "BDT. 9500",
+    "visa_required_documents": [
+      "Passport (6 months validity)",
+      "2 Passport Size Photos",
+      "NID Copy",
+      "COVID-19 Vaccine Certificate"
+    ],
+    "visa_details": "Saudi Umrah Visa includes insurance and entry approval. Air ticket & accommodation not included.",
+    "visa_contact": {
+      "visa_hot_line": "+88-01730283920",
+      "visa_phone": "+88-01319422583",
+      "visa_email": "saudi@visabd.com",
+      "visa_location": "Mirpur-10, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 2,
+    "visa_country": "Malaysia",
+    "visa_country_image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
+    "visa_type": "Tourist Visa",
+    "visa_processing_time": "7-10 Working Days",
+    "visa_price": "BDT. 4200",
+    "visa_required_documents": [
+      "Passport",
+      "Bank Statement (3 months)",
+      "Photo",
+      "NID/Birth Certificate"
+    ],
+    "visa_details": "E-visa for tourism purpose, valid for 30 days stay.",
+    "visa_contact": {
+      "visa_hot_line": "+88-01730283921",
+      "visa_phone": "+88-01319422584",
+      "visa_email": "malaysia@visabd.com",
+      "visa_location": "Gulshan, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 3,
+    "visa_country": "Thailand",
+    "visa_country_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/800px-Flag_of_Thailand.svg.png",
+    "visa_type": "Tourist Visa",
+    "visa_processing_time": "5 Working Days",
+    "visa_price": "BDT. 3500",
+    "visa_required_documents": [
+      "Passport",
+      "Photo",
+      "Bank Statement",
+      "Hotel Booking"
+    ],
+    "visa_details": "Thailand tourist visa, single entry for 60 days.",
+    "visa_contact": {
+      "visa_hot_line": "+88-01730283922",
+      "visa_phone": "+88-01319422585",
+      "visa_email": "thailand@visabd.com",
+      "visa_location": "Banani, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 4,
+    "visa_country": "Singapore",
+    "visa_country_image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
+    "visa_type": "Tourist Visa",
+    "visa_processing_time": "5-6 Working Days",
+    "visa_price": "BDT. 4600",
+    "visa_required_documents": [
+      "Passport",
+      "Visa Form",
+      "Photo",
+      "Bank Statement"
+    ],
+    "visa_details": "Singapore tourist visa valid for 30 days stay.",
+    "visa_contact": {
+      "visa_hot_line": "+88-01730283923",
+      "visa_phone": "+88-01319422586",
+      "visa_email": "singapore@visabd.com",
+      "visa_location": "Motijheel, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 5,
+    "visa_country": "India",
+    "visa_country_image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/250px-Flag_of_India.svg.png",
+    "visa_type": "Medical Visa",
+    "visa_processing_time": "4-5 Working Days",
+    "visa_price": "BDT. 2500",
+    "visa_required_documents": [
+      "Passport",
+      "Doctor's Prescription",
+      "Hospital Appointment",
+      "Photo"
+    ],
+    "visa_details": "Medical visa with multiple entry for treatment purpose.",
+    "visa_contact": {
+      "visa_hot_line": "+88-01730283924",
+      "visa_phone": "+88-01319422587",
+      "visa_email": "india@visabd.com",
+      "visa_location": "Uttara, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 6,
+    "visa_country": "Turkey",
+    "visa_country_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png",
+    "visa_type": "Tourist Visa",
+    "visa_processing_time": "10-12 Working Days",
+    "visa_price": "BDT. 8700",
+    "visa_required_documents": [
+      "Passport",
+      "Bank Statement",
+      "Hotel Booking",
+      "Travel Insurance"
+    ],
+    "visa_details": "Sticker visa, personal interview may be required.",
+    "visa_contact": {
+      "visa_hot_line": "+88-01730283925",
+      "visa_phone": "+88-01319422588",
+      "visa_email": "turkey@visabd.com",
+      "visa_location": "Shantinagar, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 7,
+    "visa_country": "Dubai (UAE)",
+    "visa_country_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/2560px-Flag_of_the_United_Arab_Emirates.svg.png",
+    "visa_type": "Tourist Visa",
+    "visa_processing_time": "3-5 Working Days",
+    "visa_price": "BDT. 8500",
+    "visa_required_documents": [
+      "Passport",
+      "Photo",
+      "NID Copy"
+    ],
+    "visa_details": "14 or 30 day Dubai tourist e-visa available.",
+    "visa_contact": {
+      "visa_hot_line": "+88-01730283926",
+      "visa_phone": "+88-01319422589",
+      "visa_email": "dubai@visabd.com",
+      "visa_location": "Baridhara, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 8,
+    "visa_country": "China",
+    "visa_country_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1200px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+    "visa_type": "Business Visa",
+    "visa_processing_time": "7 Working Days",
+    "visa_price": "BDT. 10000",
+    "visa_required_documents": [
+      "Passport",
+      "Invitation Letter",
+      "Company Documents",
+      "Photo"
+    ],
+    "visa_details": "Single/multiple entry visa for business meetings.",
+    "visa_contact": {
+      "visa_hot_line": "+88-01730283927",
+      "visa_phone": "+88-01319422590",
+      "visa_email": "china@visabd.com",
+      "visa_location": "Tejgaon, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 9,
+    "visa_country": "Qatar",
+    "visa_country_image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+    "visa_type": "Work Visa Processing",
+    "visa_processing_time": "Depends on Offer",
+    "visa_price": "BDT. 15000+",
+    "visa_required_documents": [
+      "Passport",
+      "Job Offer Letter",
+      "Medical Report",
+      "Photo"
+    ],
+    "visa_details": "Processing of Qatar employment visa. Includes medical & attestation.",
+    "visa_contact": {
+      "visa_hot_line": "+88-01730283928",
+      "visa_phone": "+88-01319422591",
+      "visa_email": "qatar@visabd.com",
+      "visa_location": "Farmgate, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 10,
+    "visa_country": "United Kingdom",
+    "visa_country_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1200px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
+    "visa_type": "Visitor Visa",
+    "visa_processing_time": "15-20 Working Days",
+    "visa_price": "BDT. 16500",
+    "visa_required_documents": [
+      "Passport",
+      "Bank Statement",
+      "Employment Proof",
+      "Accommodation Details"
+    ],
+    "visa_details": "UK Standard Visitor Visa for up to 6 months stay.",
+    "visa_contact": {
+      "visa_hot_line": "+88-01730283929",
+      "visa_phone": "+88-01319422592",
+      "visa_email": "uk@visabd.com",
+      "visa_location": "Bashundhara, Dhaka, Bangladesh"
+    }
+  }
+]

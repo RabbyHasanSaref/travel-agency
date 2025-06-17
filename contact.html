@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Agency || Contact</title>
+    <!-- css link  -->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/responsive.css">
+</head>
+<body>
+	<header>
+		<div class="container">
+			<!-- nav-logo start -->
+			<div class="logo">Travel Agency</div>
+			<!-- nav-logo end -->
+			<button class="hamburger" id="hamburger" onclick="toggleMenu()"><i class="fa fa-bars"></i></button>
+			<!-- nav-menu start -->
+			<nav>
+				<ul class="nav-link">
+					<li><a href="./index.html">Home</a></li>
+					<li><a href="./about.html">About</a></li>
+					<li><a href="#">Umrah Package</a></li>
+					<li><a href="#">Hajj Package</a></li>
+					<li><a href="#">Tour Package</a></li>
+					<li><a href="#">Visa Service</a></li>
+					<li><a href="./blog.html">Blog</a></li>
+					<li><a href="./contact.html">Contact</a></li>
+				</ul>
+			</nav>
+			<!-- nav-menu end -->
+		</div>
+	</header>
+
+	<!-- slider/banner start -->
+	<section class="contact-banner">
+		<div class="container">
+			<div class="banner-content">
+				<h1>Contact Travel Agency</h1>
+				<!-- <p>Your journey begins here. Explore the world with us.</p>
+				<a href="#" class="btn">Get Started</a> -->
+			</div>
+		</div>
+	</section>
+	<!-- slider/banner end -->
+
+<!-- contact form & map section start -->
+<section class="contact-form-section">
+  <div class="container contact-grid">
+    
+    <!-- Contact Form -->
+    <div class="contact-form">
+      <form id="contactForm">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Your Email" required>
+        <input type="text" name="subject" placeholder="Subject" required>
+        <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+        <button type="submit" class="btn">Send Message</button>
+        <p id="formMessage" style="margin-top: 10px;"></p>
+      </form>
+    </div>
+
+    <!-- Google Map -->
+    <div class="map">
+      <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3648.455517462474!2d90.3665085758513!3d23.875817478603655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c11cf749b58b%3A0x71e37cc6aa0ddedc!2sMirpur-10%2C%20Dhaka!5e0!3m2!1sen!2sbd!4v1689408259843!5m2!1sen!2sbd"
+        width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+  </div>
+</section>
+<!-- contact form & map section end -->
+
+	<!-- footer start  -->
+	 <footer class="footer">
+  <div class="footer-container">
+    <div class="footer-col">
+      <h3>Quick Menu</h3>
+      <ul>
+        <li><a href="about.html">Company Overview</a></li>
+        <li><a href="#">Hajj Packages</a></li>
+        <li><a href="#">Umrah Packages</a></li>
+        <li><a href="#">Visa Packages</a></li>
+        <li><a href="#">Tour Packages</a></li>
+        <li><a href="/blog.html">Blog</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-col">
+      <h3>Contact Us</h3>
+      <p><i class="fas fa-map-marker-alt"></i>Mirpur-10, west Kazipara, Dhaka</p>
+      <p><i class="fas fa-phone"></i> +88-01730283920</p>
+      <p><i class="fas fa-envelope"></i>travel-agency.net@gmail.com</p>
+      <div class="social-icons">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+        <a href="#"><i class="fab fa-youtube"></i></a>
+        <a href="#"><i class="fab fa-pinterest"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+      </div>
+    </div>
+
+    <div class="footer-col">
+      <h3>Travel Agency</h3>
+      <p>
+        <strong>Travel Agency</strong> is a trusted and reliable tour and travel agency among all the leading and updated tour-operating services in Bangladesh. 
+        We are here to bring the luxury to your traveling. <strong>Travel Agency</strong> is a proud member of Association of Travel Agents of Bangladesh-ATAB and Tour Operators Association of Bangladesh.
+        <br><br>
+        Safe traveling, your security, and your enjoyment are our focus during your travels. <a href="#" style="color:#00aeef;">Read More</a>
+      </p>
+    </div>
+  </div>
+</footer>
+	<!-- footer end  -->
+
+
+	<!-- js link  -->
+	<script src="https://kit.fontawesome.com/1133702304.js" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+	<script type="" src="js/main.js"></script>
+</body>
+</html>
